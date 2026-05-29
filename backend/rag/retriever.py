@@ -4,5 +4,4 @@ from config import TOP_K
 
 retriever = BM25Retriever.from_documents(
     documents=documents,
-    k=TOP_K
-)
+    k=TOP_K)

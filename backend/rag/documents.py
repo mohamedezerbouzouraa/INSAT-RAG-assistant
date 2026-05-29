@@ -79,7 +79,6 @@ raw_chunks = [
 
     "INSAT graduates are highly sought after by employers in Tunisia and internationally. "
     "They are known for strong technical expertise, problem-solving skills, and adaptability.",
-
     "INSAT is considered one of the most selective and prestigious engineering schools in Tunisia. "
     "It ranks among the top institutions for computer science, telecommunications, "
     "and applied technology programs.",

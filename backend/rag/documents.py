@@ -4,7 +4,7 @@ raw_chunks = [
     "INSAT (Institut National des Sciences Appliquees et de Technologie) is a prestigious "
     "Tunisian public engineering school located in Centre Urbain Nord, BP 676, 1080 Tunis Cedex. "
     "It is affiliated with the University of Carthage and was established in 1992.",
-
+    
     "INSAT was founded as part of a cultural, scientific, technical, and financial cooperation "
     "agreement between Tunisia and France. Its mission is to provide high-level scientific and "
     "technological training to support Tunisia's economic and social development.",
@@ -81,6 +81,5 @@ raw_chunks = [
     "They are known for strong technical expertise, problem-solving skills, and adaptability.",
     "INSAT is considered one of the most selective and prestigious engineering schools in Tunisia. "
     "It ranks among the top institutions for computer science, telecommunications, "
-    "and applied technology programs.",
-]
+    "and applied technology programs.",]
 documents = [Document(page_content=chunk) for chunk in raw_chunks]

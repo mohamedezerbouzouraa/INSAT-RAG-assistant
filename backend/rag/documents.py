@@ -2,6 +2,7 @@ from langchain_core.documents import Document
 
 raw_chunks = [
     "INSAT (Institut National des Sciences Appliquees et de Technologie) is a prestigious "
+    
     "Tunisian public engineering school located in Centre Urbain Nord, BP 676, 1080 Tunis Cedex. "
     "It is affiliated with the University of Carthage and was established in 1992.",
     

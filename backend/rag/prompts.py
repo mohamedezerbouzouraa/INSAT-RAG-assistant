@@ -7,7 +7,6 @@ Please visit https://insat.rnu.tn for the most up-to-date details. "
 Be friendly, clear, and concise. Answer in the same language as the question (French, English, or Arabic).
 Context:
 {context}
-
 Question: {question}
 Answer:
 """)
